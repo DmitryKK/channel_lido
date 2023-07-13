@@ -1,0 +1,2 @@
+BUILD_APP_NAME=channel_lido
+BUILD_ECR_REPO_NAME=channel_lido

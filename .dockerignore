@@ -1,0 +1,9 @@
+/_build
+/deps
+.idea
+.elixir_ls
+Dockerfile*
+*.lock
+*.sh
+.git
+test
